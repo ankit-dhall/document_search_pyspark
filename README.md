@@ -16,7 +16,7 @@ This repository houses the source code and results of developing a search engine
 <a id='projectoverview'></a>
 ## Project Overview
 
-This project aims to implement a search engine using PySPark on Hadoop.
+This project aims to implement a search engine using PySpark on Hadoop.
 
 It portrays a high-level functionality and an interesting use-case of PySpark to use TF-IDF to index an entire dataset and perform a search given a query.
 
